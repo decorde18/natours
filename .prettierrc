@@ -1,0 +1,5 @@
+{
+  "singleQuote": true,
+  "no-tabs": ["error", {"allowIndentationTabs": true}],
+  "useTabs": "false"
+}
