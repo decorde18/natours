@@ -17,6 +17,7 @@ const reviewRouter = require('./routes/reviewRoutes');
 const bookingRouter = require('./routes/bookingRoutes');
 const viewRouter = require('./routes/viewRoutes');
 
+//start express app
 const app = express();
 
 app.set('view engine', 'pug'); //template engine used with Express. others that could be used as well. It does not need to be installed nor does it need to be required
